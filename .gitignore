@@ -1,0 +1,6 @@
+# ignore data folder
+**/data/
+# ignore ipynb checkpoints
+**/.ipynb_checkpoints/
+# ignore lightning_logs
+**/lightning_logs/
